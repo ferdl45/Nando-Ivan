@@ -3,6 +3,9 @@ Skript schreiben das alle deutschprachigen Küchenhersteller und Küchenstudios 
 
 Werkzeug:
 Suchmaschinen mit API
+    Duckduckgo, Google, 
 Python
-Excel
+    evtl. webcrwawler suchen
 
+Excel
+    textdatei für den Anfang einfacher
